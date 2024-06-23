@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Email,Phone,Working Status,PurchaseDate,FoodItem,Price
+C_ID001,John Doe,25,johndoe@gmail.com,555-1234,Yes,5/21/2024,coffee,25TK
+C_ID002,Jane Smith,30,janesmith@gmail.com,555-5678,Yes,5/21/2024,pizza,699TK
+C_ID003,Bob Johnson,,bob.johnson@gmail.com,555-8765,Yes,5/21/2024,burger,350TK
+C_ID004,Emily Davis,45,emily.davis@example,555-4321,No,5/21/2024,coffee,25TK
+C_ID005,Chris Lee,33,chrislee@gmail.com,555-1111,Yes,5/21/2024,ice cream,130TK
+C_ID006,John Doe,25,johndoe@gmail.com,555-1234,Yes,5/21/2024,coffee,
+,Sarah King,28,sarah.king@gmail.com,555-2222,No,5/21/2024,,
+C_ID008,Jane Smith,30,janesmith@gmail.com,555-5678,No,5/21/2024,burger,350TK
+C_ID009,Michael Brown,38,michael@gmail.com,555-3333,No,5/21/2024,ice cream,
+C_ID010,Julie wilson,50,julie.wilson@gmail.com,555-4444,Yes,,pizza,699TK
+C_ID011,Laura Wilson,42,laura.wilson@gmail.com,555-5555,,5/21/2024,coffee,25TK
+C_ID012,Robert Brown,,robert.brown@gmail.com,555-6666,Yes,5/21/2024,pizza,699TK
+C_ID013,,35,,555-7777,Yes,5/21/2024,coffee,25TK
+C_ID014,Anna Scott,29,anna.scott@gmail.com,555-8888,No,5/21/2024,ice cream,130TK
+C_ID015,James White,26,james.white@gmail.com,555-9900,Yes,5/21/2024,burger,350TK
+C_ID016,Linda Green,,linda.green@gmail.com,555-9999,No,5/21/2024,123,350TK
+C_ID017,Karen Black,47,karen.black@gmail.com,555-0000,No,5/21/2024,pizza,699TK
+C_ID018,Tom Harris,50,,555-1010,Yes,5/21/2024,burger,350TK
+C_ID019,Nancy Moore,37,nancy.moore@gmail.com,555-2020,No,5/21/2024,ice cream,130TK
+C_ID020,Nancy Moore,37,nancy.moore@gmail.com,555-2020,Yes,5/21/2024,ice cream,130TK
