@@ -1,0 +1,9 @@
+Date,CustomerID,ProductID,Category,Quantity,Price,Total
+2024-01-01,1,101,Clothing,2,20,40
+2024-01-01,2,102,Electronics,1,100,100
+2024-01-02,1,103,Groceries,5,10,50
+2024-01-02,3,101,Clothing,3,20,60
+2024-01-03,2,104,Clothing,1,25,25
+2024-01-03,4,105,Groceries,10,5,50
+2024-01-04,3,106,Electronics,1,200,200
+2024-01-04,4,103,Groceries,2,10,20
